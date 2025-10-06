@@ -1,40 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm **Luca Casamayor Porto**
 
- **Full Stack Developer Trainee / Jr | Programming Student at UTN-FRC**
+Full Stack Developer Jr · Programming Student at **UTN-FRC**
 
-###  About Me
-I'm an organized and supportive person who enjoys both studying and playing video games.  
-I’m passionate about technology and continuous learning, always looking to grow as a **Full Stack Developer**, though I feel most comfortable working on the **backend**.
+My main goal is to keep improving as a developer and grow professionally in the software field.  
+I enjoy working on projects that involve solid business logic and clean architecture, applying agile methodologies such as **Scrum** to achieve clear, maintainable results.
 
----
-
-### 🎯 Current Goals
-My main goal is to graduate as a **Higher Technician in Programming** and keep growing professionally in the software development field.  
-I'm currently seeking my first opportunity to work in the industry, where I can apply my skills and continue learning from real-world challenges.
+If I had to describe myself, I’d say I’m **organized**, **curious**, and **driven by learning**.  
+I love studying and discovering new technologies that can make development more efficient and meaningful.  
+Creating useful tools and solving real problems through software is what keeps me motivated every day.
 
 ---
 
-### 💻 Technical Skills
-- **Backend:** Java, Spring Boot, Node.js, C#, Entity Framework, ADO.NET  
-- **Frontend:** Angular, HTML, CSS, JavaScript, TypeScript 
-- **Databases:** MySQL, MongoDB, Redis
-- **Tools:** Git, GitHub, Docker, Postman  
-- **Methodologies:** Agile / Scrum
-
----
-
-###  What I Like Building
-I enjoy developing projects that involve **business logic and complex rules**, following clean architecture principles and agile methodologies like **Scrum**.  
-Creating useful things and solving problems through technology motivates me every day.
-
----
-
-### Projects
--  **Clinical Laboratory Management System**  
-  *Full stack application built with Java, Spring Boot, Angular, and Docker.*
-
--  **TEG Game (Risk-style strategy game)**  
-  *A game with turn-based logic, backend API, and Angular frontend.*
+### 💻 Tech Stack
+**Backend:** Java · Spring Boot · Node.js   
+**Frontend:** Angular · HTML · CSS · JavaScript  
+**Databases:** MySQL · MongoDB  
+**Tools:** Git · GitHub · Docker · Postman  
+**Methodologies:** Agile / Scrum  
 
 ---
 
